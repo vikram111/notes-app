@@ -1,0 +1,14 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "add and remove notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikram thakur",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^4.7.1"
+  }
+}
